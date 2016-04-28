@@ -1,5 +1,4 @@
-This archive contains source code for the paper entitled: A mesh generation and machine learning framework for Drosophila 
-gene expression pattern image analysis.
+This archive contains source code for the paper entitled: A mesh generation and machine learning framework for Drosophila gene expression pattern image analysis.
 Anyone is welcomed to use this code without notifying us after citing the following paper.
 
 @article{ZhangBMCmesh,
